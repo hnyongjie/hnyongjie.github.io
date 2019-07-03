@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhang</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-03T05:39:07.964Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>木什</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2019/07/03/test/"/>
+    <id>http://yoursite.com/2019/07/03/test/</id>
+    <published>2019-07-03T05:36:42.000Z</published>
+    <updated>2019-07-03T05:39:07.964Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/07/03/md%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2019/07/03/md总结/</id>
+    <published>2019-07-03T05:31:21.158Z</published>
+    <updated>2019-07-03T06:27:40.815Z</updated>
+    
+    <content type="html"><![CDATA[<p>参考：</p><p><a href="https://www.jianshu.com/p/21c94eb7bcd1" target="_blank" rel="noopener">绝配：hexo+next主题及我走过的坑</a><br><a href="https://blog.csdn.net/sinat_37781304/article/details/82729029" target="_blank" rel="noopener">hexo史上最全搭建教程</a><br><a href="https://www.jianshu.com/p/3a05351a37dc" target="_blank" rel="noopener">Hexo的Next主题详细配置</a></p><p>Github Desktop</p><p>作者：Pan231<br>链接：<a href="https://www.jianshu.com/p/06a960d991aa" target="_blank" rel="noopener">https://www.jianshu.com/p/06a960d991aa</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;参考：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jianshu.com/p/21c94eb7bcd1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;绝配：hexo+next主题及我走过的坑&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://b
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/07/03/hello-world/"/>
+    <id>http://yoursite.com/2019/07/03/hello-world/</id>
+    <published>2019-07-03T05:31:21.146Z</published>
+    <updated>2019-06-22T12:38:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p><a href="https://www.easyicon.net/" target="_blank" rel="noopener">搜索图标网站</a></p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2019/06/22/page/"/>
+    <id>http://yoursite.com/2019/06/22/page/</id>
+    <published>2019-06-22T03:20:01.000Z</published>
+    <updated>2019-07-01T17:45:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ul><li>hexo介绍<br>主页： <a href="https://hexo.io" target="_blank" rel="noopener">https://hexo.io</a><br>Hexo是一个快速、简洁且高效的博客框架，它不需要部署到服务器上。<br>Hexo使用Markdown（或其他渲染引擎）解析文章，它帮我们生成静态的html页面，然后将生成的html上传到服务器。简单理解：hexo是个静态页面生成、上传的工具。</li></ul><p>本文分三个部分，</p><p>第一部分：hexo的初级搭建还有部署到github page上，以及个人域名的绑定。<br>第二部分：hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流<br>第三部分：hexo添加各种功能，包括搜索的SEO，阅读量统计，访问量统计和评论系统等。</p><hr><h1 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h1><blockquote class="blockquote-center">简牍盈积，浩如烟海。浅尝辄止，擦肩成空。</blockquote><h2 id="Hexo安装"><a href="#Hexo安装" class="headerlink" title="Hexo安装"></a>Hexo安装</h2><p>参见官方文档     &nbsp;&nbsp;&nbsp;<a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">点击查看</a></p><ul><li>安装Git    &nbsp;&nbsp;&nbsp;    Git用来管理和上传你的文章。</li><li>安装NodeJs    &nbsp;&nbsp;&nbsp;    Hexo是基于nodeJS编写的，所以需要安装一下nodeJs和里面的npm工具。</li><li>安装hexo    &nbsp;&nbsp;&nbsp;    前置程序安装完成后，使用命令: <code>npm install -g hexo</code></li></ul><h2 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h2><p>转到目标路径，使用命令<code>hexo init XXXblog</code>来初始化博客文件夹</p><hr><h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><ul><li><p>文章链接唯一化<br>文章题目或者变更文章发布时间会经常更改，在默认设置下，文章链接都会改变，不利于搜索引擎收录，也不利于分享。唯一永久链接才是更好的选择。安装此插件后，不要在hexo s模式下更改文章文件名，否则文章将成空白。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-abbrlink --save</span><br></pre></td></tr></table></figure><p>  修改站点配置文件：<a href="https://newdee.cf/posts/6ed4d3bc/" target="_blank" rel="noopener">^1</a></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">permalink: posts/:abbrlink/  # “posts/” 可自行更换</span><br><span class="line"># abbrlink config</span><br><span class="line">abbrlink:</span><br><span class="line">alg: crc32  # 算法：crc16(default) and crc32 </span><br><span class="line">rep: hex    # 进制：dec(default) and hex</span><br></pre></td></tr></table></figure></li></ul><h2 id="修改"><a href="#修改" class="headerlink" title="修改"></a>修改</h2><ul><li><p>主页文章添加阴影效果<br>打开\themes\next\source\css_custom\custom.styl,向里面加入：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">// 主页文章添加阴影效果</span><br><span class="line"> .post &#123;</span><br><span class="line">   margin-top: 60px;</span><br><span class="line">   margin-bottom: 60px;</span><br><span class="line">   padding: 25px;</span><br><span class="line">   -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);</span><br><span class="line">   -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);</span><br><span class="line">  &#125;</span><br></pre></td></tr></table></figure></li><li><p>文章页面宽度设置</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">main-inner &#123;width: 页面宽度;&#125;</span><br></pre></td></tr></table></figure></li><li><p>添加居中模块</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;blockquote class=&quot;blockquote-center&quot;&gt;简牍盈积，浩如烟海。浅尝辄止，擦肩成空。&lt;/blockquote&gt;</span><br></pre></td></tr></table></figure></li></ul><p>参考资料：</p><ol><li>把侧边栏头像变成圆形，并且鼠标停留在上面发生旋转效果</li><li>添加nest背景特效：</li><li>文章链接唯一化</li><li>添加宠物（虽然没卵用）</li><li>首页title的优化</li><li>添加mob_share SDK分享<br>后来添加了一些插件：</li><li>hexo-ruby-character插件</li><li>hexo-pdf插件</li><li>图片懒加载</li><li>添加DaoVoice插件</li><li>隐藏底部powered一栏</li><li>修改底栏心形图标</li><li>主页文章添加阴影效果</li><li>修改页面底部标签分类的#号</li><li>添加脚注</li><li>添加居中模块</li><li>添加鼠标特效</li><li>添加时钟</li><li>给页面添加背景图片</li><li>文字背景色以及半透明的设置</li><li>文章页面宽度设置</li><li>文章内单行代码的样式设置</li><li>网页顶部和底部的文字颜色修改</li><li><ol><li>头部文字颜色</li></ol></li><li><ol start="2"><li>底部文字颜色</li></ol></li><li>侧栏背景图以及内部文字颜色的修改</li><li>修改Mist风格下的侧边栏位置为左边</li><li><ol><li>更改页面变化方向：</li></ol></li><li><ol start="2"><li>更改所有和sidebar相关的元素：</li></ol></li><li><ol start="3"><li>修正侧边栏在左边时的小BUG</li></ol></li><li><ol start="4"><li>更改侧边栏控制按钮的样式</li></ol></li><li>添加侧边栏头像的链接</li><li><ol><li>修改鼠标样式：</li></ol></li><li><ol start="2"><li>添加链接：</li></ol></li><li>设置鼠标划入侧边栏才显示站点信息：</li><li><ol><li>自定义区域的初始化设置</li></ol></li><li>自定义音乐播放器</li><li><ol><li>安装APlayer插件</li></ol></li><li><ol start="2"><li>生成音乐播放器</li></ol></li><li><ol start="3"><li>自定义播放器样式</li></ol></li><li><ol start="4"><li>自定义萌萌哒音乐播放控制边栏</li></ol></li><li>DOS风格的404页面</li><li>博客自动部署</li><li>live2d插件手机端隐藏</li><li>Gitment评论插件</li><li><ol><li>首先创建Gitment的swig文件，放到主题中，为了便于管理，我决定放在next/layout/_third-party/comments文件夹下。其内容为:</li></ol></li><li><ol start="2"><li>在主题文件layout/_third-party/comments/index.swig中引入刚刚添加的文件:</li></ol></li><li><ol start="3"><li>设置按钮样式</li></ol></li><li><ol start="4"><li>修改button显示文字:</li></ol></li><li><ol start="5"><li>修改主题评论代码</li></ol></li><li><ol start="6"><li>在主题配置文件中加入开启Gitment评论:</li></ol></li><li>Hexo中插入流程图</li><li><ol><li>安装</li></ol></li><li><ol start="2"><li>配置站点文件(可选)</li></ol></li><li><ol start="3"><li>流程图用法</li></ol></li><li>Hexo中插入序列图</li><li><ol><li>安装</li></ol></li><li><ol start="2"><li>加速</li></ol></li><li>序列图绘制</li><li><ol><li>加速</li></ol></li><li><ol start="2"><li>插入视频</li></ol></li></ol><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;hexo介绍&lt;br&gt;主页： &lt;a href=&quot;https://hexo.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo.io&lt;/a&gt;&lt;br&gt;Hexo是一个快速、简洁且高效的博客框架，它不需要部署到服务器上。&lt;br&gt;Hexo使用Markdown（或其他渲染引擎）解析文章，它帮我们生成静态的html页面，然后将生成的html上传到服务器。简单理解：hexo是个静态页面生成、上传的工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本文分三个部分，&lt;/p&gt;
+&lt;p&gt;第一部分：hexo的初级搭建还有部署到github page上，以及个人域名的绑定。&lt;br&gt;第二部分：hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流&lt;br&gt;第三部分：hexo添加各种功能，包括搜索的SEO，阅读量统计，访问量统计和评论系统等。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;第一部分&quot;&gt;&lt;a href=&quot;#第一部分&quot; class=&quot;headerlink&quot; title=&quot;第一部分&quot;&gt;&lt;/a&gt;第一部分&lt;/h1&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;简牍盈积，浩如烟海。浅尝辄止，擦肩成空。&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;Hexo安装&quot;&gt;&lt;a href=&quot;#Hexo安装&quot; class=&quot;headerlink&quot; title=&quot;Hexo安装&quot;&gt;&lt;/a&gt;Hexo安装&lt;/h2&gt;&lt;p&gt;参见官方文档     &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击查看&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装Git    &amp;nbsp;&amp;nbsp;&amp;nbsp;    Git用来管理和上传你的文章。&lt;/li&gt;
+&lt;li&gt;安装NodeJs    &amp;nbsp;&amp;nbsp;&amp;nbsp;    Hexo是基于nodeJS编写的，所以需要安装一下nodeJs和里面的npm工具。&lt;/li&gt;
+&lt;li&gt;安装hexo    &amp;nbsp;&amp;nbsp;&amp;nbsp;    前置程序安装完成后，使用命令: &lt;code&gt;npm install -g hexo&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;建站&quot;&gt;&lt;a href=&quot;#建站&quot; class=&quot;headerlink&quot; title=&quot;建站&quot;&gt;&lt;/a&gt;建站&lt;/h2&gt;&lt;p&gt;转到目标路径，使用命令&lt;code&gt;hexo init XXXblog&lt;/code&gt;来初始化博客文件夹&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;安装插件&quot;&gt;&lt;a href=&quot;#安装插件&quot; class=&quot;headerlink&quot; title=&quot;安装插件&quot;&gt;&lt;/a&gt;安装插件&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;文章链接唯一化&lt;br&gt;文章题目或者变更文章发布时间会经常更改，在默认设置下，文章链接都会改变，不利于搜索引擎收录，也不利于分享。唯一永久链接才是更好的选择。安装此插件后，不要在hexo s模式下更改文章文件名，否则文章将成空白。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install hexo-abbrlink --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;  修改站点配置文件：&lt;a href=&quot;https://newdee.cf/posts/6ed4d3bc/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;^1&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;permalink: posts/:abbrlink/  # “posts/” 可自行更换&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;# abbrlink config&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;abbrlink:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;alg: crc32  # 算法：crc16(default) and crc32 &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;rep: hex    # 进制：dec(default) and hex&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;修改&quot;&gt;&lt;a href=&quot;#修改&quot; class=&quot;headerlink&quot; title=&quot;修改&quot;&gt;&lt;/a&gt;修改&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;主页文章添加阴影效果&lt;br&gt;打开\themes\next\source\css_custom\custom.styl,向里面加入：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;// 主页文章添加阴影效果&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt; .post &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   margin-top: 60px;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   margin-bottom: 60px;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   padding: 25px;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;   -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;文章页面宽度设置&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;main-inner &amp;#123;width: 页面宽度;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;添加居中模块&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;blockquote class=&amp;quot;blockquote-center&amp;quot;&amp;gt;简牍盈积，浩如烟海。浅尝辄止，擦肩成空。&amp;lt;/blockquote&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考资料：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;把侧边栏头像变成圆形，并且鼠标停留在上面发生旋转效果&lt;/li&gt;
+&lt;li&gt;添加nest背景特效：&lt;/li&gt;
+&lt;li&gt;文章链接唯一化&lt;/li&gt;
+&lt;li&gt;添加宠物（虽然没卵用）&lt;/li&gt;
+&lt;li&gt;首页title的优化&lt;/li&gt;
+&lt;li&gt;添加mob_share SDK分享&lt;br&gt;后来添加了一些插件：&lt;/li&gt;
+&lt;li&gt;hexo-ruby-character插件&lt;/li&gt;
+&lt;li&gt;hexo-pdf插件&lt;/li&gt;
+&lt;li&gt;图片懒加载&lt;/li&gt;
+&lt;li&gt;添加DaoVoice插件&lt;/li&gt;
+&lt;li&gt;隐藏底部powered一栏&lt;/li&gt;
+&lt;li&gt;修改底栏心形图标&lt;/li&gt;
+&lt;li&gt;主页文章添加阴影效果&lt;/li&gt;
+&lt;li&gt;修改页面底部标签分类的#号&lt;/li&gt;
+&lt;li&gt;添加脚注&lt;/li&gt;
+&lt;li&gt;添加居中模块&lt;/li&gt;
+&lt;li&gt;添加鼠标特效&lt;/li&gt;
+&lt;li&gt;添加时钟&lt;/li&gt;
+&lt;li&gt;给页面添加背景图片&lt;/li&gt;
+&lt;li&gt;文字背景色以及半透明的设置&lt;/li&gt;
+&lt;li&gt;文章页面宽度设置&lt;/li&gt;
+&lt;li&gt;文章内单行代码的样式设置&lt;/li&gt;
+&lt;li&gt;网页顶部和底部的文字颜色修改&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;头部文字颜色&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;底部文字颜色&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;侧栏背景图以及内部文字颜色的修改&lt;/li&gt;
+&lt;li&gt;修改Mist风格下的侧边栏位置为左边&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;更改页面变化方向：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;更改所有和sidebar相关的元素：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;修正侧边栏在左边时的小BUG&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;更改侧边栏控制按钮的样式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;添加侧边栏头像的链接&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;修改鼠标样式：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;添加链接：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;设置鼠标划入侧边栏才显示站点信息：&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;自定义区域的初始化设置&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;自定义音乐播放器&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;安装APlayer插件&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;生成音乐播放器&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;自定义播放器样式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;自定义萌萌哒音乐播放控制边栏&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;DOS风格的404页面&lt;/li&gt;
+&lt;li&gt;博客自动部署&lt;/li&gt;
+&lt;li&gt;live2d插件手机端隐藏&lt;/li&gt;
+&lt;li&gt;Gitment评论插件&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;首先创建Gitment的swig文件，放到主题中，为了便于管理，我决定放在next/layout/_third-party/comments文件夹下。其内容为:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;在主题文件layout/_third-party/comments/index.swig中引入刚刚添加的文件:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;设置按钮样式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;修改button显示文字:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;修改主题评论代码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;在主题配置文件中加入开启Gitment评论:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hexo中插入流程图&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;安装&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;配置站点文件(可选)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;流程图用法&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Hexo中插入序列图&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;安装&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;加速&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;序列图绘制&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;加速&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;插入视频&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="配置" scheme="http://yoursite.com/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+</feed>

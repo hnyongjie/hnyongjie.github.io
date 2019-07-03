@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F07%2F03%2Ftest%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>工作</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2019%2F07%2F03%2Fmd%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[参考： 绝配：hexo+next主题及我走过的坑hexo史上最全搭建教程Hexo的Next主题详细配置 Github Desktop 作者：Pan231链接：https://www.jianshu.com/p/06a960d991aa]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F03%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start搜索图标网站 Create a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[page]]></title>
+    <url>%2F2019%2F06%2F22%2Fpage%2F</url>
+    <content type="text"><![CDATA[前言 hexo介绍主页： https://hexo.ioHexo是一个快速、简洁且高效的博客框架，它不需要部署到服务器上。Hexo使用Markdown（或其他渲染引擎）解析文章，它帮我们生成静态的html页面，然后将生成的html上传到服务器。简单理解：hexo是个静态页面生成、上传的工具。 本文分三个部分， 第一部分：hexo的初级搭建还有部署到github page上，以及个人域名的绑定。第二部分：hexo的基本配置，更换主题，实现多终端工作，以及在coding page部署实现国内外分流第三部分：hexo添加各种功能，包括搜索的SEO，阅读量统计，访问量统计和评论系统等。 第一部分简牍盈积，浩如烟海。浅尝辄止，擦肩成空。 Hexo安装参见官方文档 &nbsp;&nbsp;&nbsp;点击查看 安装Git &nbsp;&nbsp;&nbsp; Git用来管理和上传你的文章。 安装NodeJs &nbsp;&nbsp;&nbsp; Hexo是基于nodeJS编写的，所以需要安装一下nodeJs和里面的npm工具。 安装hexo &nbsp;&nbsp;&nbsp; 前置程序安装完成后，使用命令: npm install -g hexo 建站转到目标路径，使用命令hexo init XXXblog来初始化博客文件夹 安装插件 文章链接唯一化文章题目或者变更文章发布时间会经常更改，在默认设置下，文章链接都会改变，不利于搜索引擎收录，也不利于分享。唯一永久链接才是更好的选择。安装此插件后，不要在hexo s模式下更改文章文件名，否则文章将成空白。 1npm install hexo-abbrlink --save 修改站点配置文件：^1 12345permalink: posts/:abbrlink/ # “posts/” 可自行更换# abbrlink configabbrlink:alg: crc32 # 算法：crc16(default) and crc32 rep: hex # 进制：dec(default) and hex 修改 主页文章添加阴影效果打开\themes\next\source\css_custom\custom.styl,向里面加入： 12345678// 主页文章添加阴影效果 .post &#123; margin-top: 60px; margin-bottom: 60px; padding: 25px; -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5); -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5); &#125; 文章页面宽度设置 1main-inner &#123;width: 页面宽度;&#125; 添加居中模块 1&lt;blockquote class=&quot;blockquote-center&quot;&gt;简牍盈积，浩如烟海。浅尝辄止，擦肩成空。&lt;/blockquote&gt; 参考资料： 把侧边栏头像变成圆形，并且鼠标停留在上面发生旋转效果 添加nest背景特效： 文章链接唯一化 添加宠物（虽然没卵用） 首页title的优化 添加mob_share SDK分享后来添加了一些插件： hexo-ruby-character插件 hexo-pdf插件 图片懒加载 添加DaoVoice插件 隐藏底部powered一栏 修改底栏心形图标 主页文章添加阴影效果 修改页面底部标签分类的#号 添加脚注 添加居中模块 添加鼠标特效 添加时钟 给页面添加背景图片 文字背景色以及半透明的设置 文章页面宽度设置 文章内单行代码的样式设置 网页顶部和底部的文字颜色修改 头部文字颜色 底部文字颜色 侧栏背景图以及内部文字颜色的修改 修改Mist风格下的侧边栏位置为左边 更改页面变化方向： 更改所有和sidebar相关的元素： 修正侧边栏在左边时的小BUG 更改侧边栏控制按钮的样式 添加侧边栏头像的链接 修改鼠标样式： 添加链接： 设置鼠标划入侧边栏才显示站点信息： 自定义区域的初始化设置 自定义音乐播放器 安装APlayer插件 生成音乐播放器 自定义播放器样式 自定义萌萌哒音乐播放控制边栏 DOS风格的404页面 博客自动部署 live2d插件手机端隐藏 Gitment评论插件 首先创建Gitment的swig文件，放到主题中，为了便于管理，我决定放在next/layout/_third-party/comments文件夹下。其内容为: 在主题文件layout/_third-party/comments/index.swig中引入刚刚添加的文件: 设置按钮样式 修改button显示文字: 修改主题评论代码 在主题配置文件中加入开启Gitment评论: Hexo中插入流程图 安装 配置站点文件(可选) 流程图用法 Hexo中插入序列图 安装 加速 序列图绘制 加速 插入视频]]></content>
+      <tags>
+        <tag>博客</tag>
+        <tag>hexo</tag>
+        <tag>配置</tag>
+        <tag>记录</tag>
+      </tags>
+  </entry>
+</search>
